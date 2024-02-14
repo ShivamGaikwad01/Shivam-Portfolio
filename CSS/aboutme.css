@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.ab-main{
+    background: linear-gradient( 45deg, rgb(234, 85, 234),rgb(218, 54, 54),yellow);
+    display: flex;
+    width: 90vw;
+}
+.am{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20  px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-weight: 100;
+}
+.ab-main-2{
+    height: 95vh;
+    width: 54vw;
+    margin: auto;
+    margin-top: 50px;
+    border-radius:55px;
+    /* background-color: rgb(26 93 209 / 70%); */
+    /* background-color: white; */
+    font-weight: bold;
+    
+}
+
+.am2{
+    width:50% ;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    margin: auto;
+    margin-top: 35px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
